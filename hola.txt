@@ -1,2 +1,7 @@
 gbarro OK
+<<<<<<< HEAD
 hola soy juan
+=======
+gbarro nueva linea
+gbarro mas lineas
+>>>>>>> 9fdbcc6 (Nueva subida archivo ejercicio4)
